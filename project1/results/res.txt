@@ -1,0 +1,464 @@
+iteration = 20 
+time taken = 23.726374 
+cost = 0.375048 training_percent = 0.890000
+iteration = 40 
+time taken = 30.320575 
+cost = 0.173136 training_percent = 0.960000
+iteration = 60 
+time taken = 32.183357 
+cost = 0.279766 training_percent = 0.930000
+iteration = 80 
+time taken = 23.637331 
+cost = 0.351055 training_percent = 0.890000
+iteration = 100 
+time taken = 24.850620 
+cost = 0.273491 training_percent = 0.910000
+iteration = 120 
+time taken = 24.400846 
+cost = 0.271952 training_percent = 0.920000
+iteration = 140 
+time taken = 24.119690 
+cost = 0.255968 training_percent = 0.930000
+iteration = 160 
+time taken = 24.185492 
+cost = 0.213130 training_percent = 0.920000
+iteration = 180 
+time taken = 24.095909 
+cost = 0.296323 training_percent = 0.910000
+iteration = 200 
+time taken = 24.562089 
+cost = 0.279565 training_percent = 0.910000
+iteration = 220 
+time taken = 24.201621 
+cost = 0.134491 training_percent = 0.950000
+iteration = 240 
+time taken = 24.512476 
+cost = 0.313523 training_percent = 0.910000
+iteration = 260 
+time taken = 31.949416 
+cost = 0.168901 training_percent = 0.970000
+iteration = 280 
+time taken = 24.608154 
+cost = 0.316075 training_percent = 0.900000
+iteration = 300 
+time taken = 24.413398 
+cost = 0.176619 training_percent = 0.920000
+iteration = 320 
+time taken = 23.551574 
+cost = 0.256061 training_percent = 0.930000
+iteration = 340 
+time taken = 23.554076 
+cost = 0.262653 training_percent = 0.920000
+iteration = 360 
+time taken = 24.395051 
+cost = 0.148218 training_percent = 0.970000
+iteration = 380 
+time taken = 24.199223 
+cost = 0.203934 training_percent = 0.920000
+iteration = 400 
+time taken = 24.117551 
+cost = 0.127344 training_percent = 0.950000
+iteration = 420 
+time taken = 24.442508 
+cost = 0.168972 training_percent = 0.940000
+iteration = 440 
+time taken = 24.969316 
+cost = 0.229221 training_percent = 0.940000
+iteration = 460 
+time taken = 24.063935 
+cost = 0.162335 training_percent = 0.940000
+iteration = 480 
+time taken = 23.693907 
+cost = 0.202328 training_percent = 0.940000
+iteration = 500 
+time taken = 23.885873 
+cost = 0.191895 training_percent = 0.960000
+test accuracy: 0.944000 
+
+iteration = 520 
+time taken = 27.959357 
+cost = 0.137571 training_percent = 0.970000
+iteration = 540 
+time taken = 25.459948 
+cost = 0.231871 training_percent = 0.960000
+iteration = 560 
+time taken = 24.950466 
+cost = 0.213471 training_percent = 0.950000
+iteration = 580 
+time taken = 24.776154 
+cost = 0.270525 training_percent = 0.940000
+iteration = 600 
+time taken = 25.530985 
+cost = 0.192910 training_percent = 0.930000
+iteration = 620 
+time taken = 26.325663 
+cost = 0.084635 training_percent = 0.990000
+iteration = 640 
+time taken = 25.189887 
+cost = 0.151668 training_percent = 0.950000
+iteration = 660 
+time taken = 26.680183 
+cost = 0.126237 training_percent = 0.960000
+load('lenet_fake.mat')
+load('lenet_fake.mat')
+load('lenet_fake.mat')
+iteration = 680 
+time taken = 24.778228 
+cost = 0.076591 training_percent = 1.000000
+iteration = 700 
+time taken = 26.366071 
+cost = 0.131836 training_percent = 0.970000
+iteration = 720 
+time taken = 25.944115 
+cost = 0.136787 training_percent = 0.940000
+iteration = 740 
+time taken = 24.295086 
+cost = 0.167133 training_percent = 0.950000
+iteration = 760 
+time taken = 24.639585 
+cost = 0.102066 training_percent = 0.990000
+iteration = 780 
+time taken = 24.076022 
+cost = 0.139282 training_percent = 0.980000
+iteration = 800 
+time taken = 24.414634 
+cost = 0.115812 training_percent = 0.970000
+iteration = 820 
+time taken = 23.508975 
+cost = 0.120172 training_percent = 0.980000
+iteration = 840 
+time taken = 23.361067 
+cost = 0.209558 training_percent = 0.940000
+iteration = 860 
+time taken = 23.206640 
+cost = 0.169141 training_percent = 0.940000
+iteration = 880 
+time taken = 25.945110 
+cost = 0.131699 training_percent = 0.970000
+iteration = 900 
+time taken = 24.953867 
+cost = 0.103636 training_percent = 0.970000
+iteration = 920 
+time taken = 24.123170 
+cost = 0.110997 training_percent = 0.960000
+iteration = 940 
+time taken = 25.423877 
+cost = 0.164344 training_percent = 0.950000
+iteration = 960 
+time taken = 24.658632 
+cost = 0.126461 training_percent = 0.980000
+iteration = 980 
+time taken = 24.980424 
+cost = 0.182417 training_percent = 0.950000
+iteration = 1000 
+time taken = 23.744034 
+cost = 0.124224 training_percent = 0.980000
+test accuracy: 0.960000 
+
+iteration = 1020 
+time taken = 29.159559 
+cost = 0.170721 training_percent = 0.960000
+iteration = 1040 
+time taken = 23.521237 
+cost = 0.164915 training_percent = 0.940000
+iteration = 1060 
+time taken = 23.277067 
+cost = 0.112286 training_percent = 0.970000
+iteration = 1080 
+time taken = 24.396228 
+cost = 0.168950 training_percent = 0.940000
+iteration = 1100 
+time taken = 23.736519 
+cost = 0.111115 training_percent = 0.960000
+iteration = 1120 
+time taken = 23.873675 
+cost = 0.085223 training_percent = 0.980000
+iteration = 1140 
+time taken = 23.862477 
+cost = 0.132434 training_percent = 0.980000
+iteration = 1160 
+time taken = 24.169445 
+cost = 0.155495 training_percent = 0.930000
+iteration = 1180 
+time taken = 23.305955 
+cost = 0.077109 training_percent = 0.960000
+iteration = 1200 
+time taken = 23.422290 
+cost = 0.113216 training_percent = 0.940000
+iteration = 1220 
+time taken = 23.905011 
+cost = 0.090609 training_percent = 0.990000
+iteration = 1240 
+time taken = 23.931459 
+cost = 0.167703 training_percent = 0.960000
+iteration = 1260 
+time taken = 24.863256 
+cost = 0.075760 training_percent = 0.980000
+iteration = 1280 
+time taken = 23.995304 
+cost = 0.083313 training_percent = 0.980000
+iteration = 1300 
+time taken = 24.153203 
+cost = 0.134874 training_percent = 0.960000
+iteration = 1320 
+time taken = 23.942497 
+cost = 0.058676 training_percent = 0.980000
+iteration = 1340 
+time taken = 24.130288 
+cost = 0.144781 training_percent = 0.970000
+iteration = 1360 
+time taken = 23.657053 
+cost = 0.080773 training_percent = 0.970000
+iteration = 1380 
+time taken = 24.339964 
+cost = 0.076307 training_percent = 0.980000
+iteration = 1400 
+time taken = 25.028355 
+cost = 0.067548 training_percent = 0.990000
+iteration = 1420 
+time taken = 25.045562 
+cost = 0.206505 training_percent = 0.930000
+iteration = 1440 
+time taken = 25.021867 
+cost = 0.089260 training_percent = 0.970000
+iteration = 1460 
+time taken = 24.965708 
+cost = 0.095208 training_percent = 0.970000
+iteration = 1480 
+time taken = 26.790361 
+cost = 0.098951 training_percent = 0.970000
+iteration = 1500 
+time taken = 29.151935 
+cost = 0.095426 training_percent = 0.980000
+test accuracy: 0.966000 
+
+iteration = 1520 
+time taken = 30.365760 
+cost = 0.065488 training_percent = 0.990000
+iteration = 1540 
+time taken = 24.594250 
+cost = 0.092439 training_percent = 0.970000
+iteration = 1560 
+time taken = 23.948746 
+cost = 0.093094 training_percent = 0.970000
+iteration = 1580 
+time taken = 25.572785 
+cost = 0.103985 training_percent = 0.980000
+iteration = 1600 
+time taken = 26.425235 
+cost = 0.086685 training_percent = 0.980000
+iteration = 1620 
+time taken = 25.829825 
+cost = 0.067572 training_percent = 0.980000
+iteration = 1640 
+time taken = 24.623323 
+cost = 0.055614 training_percent = 0.990000
+iteration = 1660 
+time taken = 23.607042 
+cost = 0.038827 training_percent = 0.990000
+iteration = 1680 
+time taken = 23.351584 
+cost = 0.076189 training_percent = 0.980000
+iteration = 1700 
+time taken = 22.964554 
+cost = 0.106186 training_percent = 0.950000
+iteration = 1720 
+time taken = 22.965457 
+cost = 0.074479 training_percent = 0.970000
+iteration = 1740 
+time taken = 22.974309 
+cost = 0.030270 training_percent = 1.000000
+iteration = 1760 
+time taken = 22.985450 
+cost = 0.093152 training_percent = 0.990000
+iteration = 1780 
+time taken = 23.015987 
+cost = 0.077653 training_percent = 0.980000
+iteration = 1800 
+time taken = 23.092715 
+cost = 0.034245 training_percent = 1.000000
+iteration = 1820 
+time taken = 23.024912 
+cost = 0.042303 training_percent = 0.990000
+iteration = 1840 
+time taken = 22.973389 
+cost = 0.064851 training_percent = 0.980000
+iteration = 1860 
+time taken = 22.966402 
+cost = 0.097568 training_percent = 0.950000
+iteration = 1880 
+time taken = 22.996857 
+cost = 0.066206 training_percent = 0.970000
+iteration = 1900 
+time taken = 23.065921 
+cost = 0.048397 training_percent = 1.000000
+iteration = 1920 
+time taken = 22.837286 
+cost = 0.045871 training_percent = 0.980000
+iteration = 1940 
+time taken = 22.877661 
+cost = 0.053543 training_percent = 0.980000
+iteration = 1960 
+time taken = 22.822579 
+cost = 0.042361 training_percent = 1.000000
+iteration = 1980 
+time taken = 22.786285 
+cost = 0.043906 training_percent = 1.000000
+iteration = 2000 
+time taken = 22.830182 
+cost = 0.060728 training_percent = 0.970000
+test accuracy: 0.968000 
+
+iteration = 2020 
+time taken = 26.827130 
+cost = 0.036389 training_percent = 1.000000
+iteration = 2040 
+time taken = 23.766661 
+cost = 0.110212 training_percent = 0.960000
+iteration = 2060 
+time taken = 23.066637 
+cost = 0.082911 training_percent = 0.980000
+iteration = 2080 
+time taken = 23.372612 
+cost = 0.041491 training_percent = 0.990000
+iteration = 2100 
+time taken = 24.060106 
+cost = 0.069977 training_percent = 1.000000
+iteration = 2120 
+time taken = 23.128883 
+cost = 0.066759 training_percent = 0.990000
+iteration = 2140 
+time taken = 23.390483 
+cost = 0.098509 training_percent = 0.970000
+iteration = 2160 
+time taken = 23.661673 
+cost = 0.090389 training_percent = 0.980000
+iteration = 2180 
+time taken = 24.616238 
+cost = 0.108484 training_percent = 0.970000
+iteration = 2200 
+time taken = 23.083664 
+cost = 0.068312 training_percent = 0.980000
+iteration = 2220 
+time taken = 23.095073 
+cost = 0.038007 training_percent = 0.990000
+iteration = 2240 
+time taken = 23.241641 
+cost = 0.042646 training_percent = 0.980000
+iteration = 2260 
+time taken = 23.287802 
+cost = 0.051065 training_percent = 0.970000
+iteration = 2280 
+time taken = 25.654628 
+cost = 0.104110 training_percent = 0.990000
+iteration = 2300 
+time taken = 25.819009 
+cost = 0.063643 training_percent = 0.980000
+iteration = 2320 
+time taken = 28.033722 
+cost = 0.046553 training_percent = 1.000000
+iteration = 2340 
+time taken = 25.293367 
+cost = 0.044037 training_percent = 0.990000
+iteration = 2360 
+time taken = 26.836808 
+cost = 0.086007 training_percent = 0.980000
+iteration = 2380 
+time taken = 24.082805 
+cost = 0.037358 training_percent = 1.000000
+iteration = 2400 
+time taken = 23.255755 
+cost = 0.084625 training_percent = 0.960000
+iteration = 2420 
+time taken = 25.470430 
+cost = 0.080813 training_percent = 0.980000
+iteration = 2440 
+time taken = 25.290025 
+cost = 0.045963 training_percent = 0.990000
+iteration = 2460 
+time taken = 23.331017 
+cost = 0.087875 training_percent = 0.970000
+iteration = 2480 
+time taken = 24.732775 
+cost = 0.068131 training_percent = 0.980000
+iteration = 2500 
+time taken = 24.207047 
+cost = 0.083214 training_percent = 0.980000
+test accuracy: 0.970000 
+
+iteration = 2520 
+time taken = 27.699797 
+cost = 0.072175 training_percent = 0.990000
+iteration = 2540 
+time taken = 24.827836 
+cost = 0.077116 training_percent = 0.980000
+iteration = 2560 
+time taken = 26.990675 
+cost = 0.043484 training_percent = 1.000000
+iteration = 2580 
+time taken = 23.865624 
+cost = 0.099889 training_percent = 0.980000
+iteration = 2600 
+time taken = 23.969078 
+cost = 0.083081 training_percent = 0.970000
+iteration = 2620 
+time taken = 25.555964 
+cost = 0.069446 training_percent = 0.980000
+iteration = 2640 
+time taken = 26.435078 
+cost = 0.066317 training_percent = 0.980000
+iteration = 2660 
+time taken = 26.014971 
+cost = 0.047526 training_percent = 0.990000
+iteration = 2680 
+time taken = 25.448184 
+cost = 0.053937 training_percent = 0.980000
+iteration = 2700 
+time taken = 23.319932 
+cost = 0.026531 training_percent = 1.000000
+iteration = 2720 
+time taken = 22.901361 
+cost = 0.058021 training_percent = 0.980000
+iteration = 2740 
+time taken = 23.245572 
+cost = 0.040138 training_percent = 0.990000
+iteration = 2760 
+time taken = 23.104572 
+cost = 0.067046 training_percent = 0.970000
+iteration = 2780 
+time taken = 23.439042 
+cost = 0.054911 training_percent = 0.990000
+iteration = 2800 
+time taken = 23.656986 
+cost = 0.044653 training_percent = 0.980000
+iteration = 2820 
+time taken = 23.746055 
+cost = 0.028768 training_percent = 1.000000
+iteration = 2840 
+time taken = 24.039972 
+cost = 0.044065 training_percent = 1.000000
+iteration = 2860 
+time taken = 23.304016 
+cost = 0.037865 training_percent = 0.990000
+iteration = 2880 
+time taken = 25.647611 
+cost = 0.060430 training_percent = 0.980000
+iteration = 2900 
+time taken = 23.640849 
+cost = 0.056298 training_percent = 0.980000
+iteration = 2920 
+time taken = 23.003396 
+cost = 0.037776 training_percent = 0.990000
+iteration = 2940 
+time taken = 23.704737 
+cost = 0.050338 training_percent = 0.970000
+iteration = 2960 
+time taken = 24.330873 
+cost = 0.068306 training_percent = 0.990000
+iteration = 2980 
+time taken = 23.943999 
+cost = 0.040429 training_percent = 1.000000
+iteration = 3000 
+time taken = 23.996991 
+cost = 0.049833 training_percent = 0.990000
+test accuracy: 0.970000 
